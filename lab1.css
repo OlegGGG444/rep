@@ -1,0 +1,78 @@
+body{
+  background: rgba(36, 255, 0, 0.22);
+}
+
+.foto img{
+position: absolute;
+width: 250px;
+height: 400px;
+left: 157px;
+top: 150px;
+
+background: url(foto.jpg);
+}
+
+.me{
+position: absolute;
+width: 602px;
+height: 174px;
+left: 456px;
+top: 81px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 64px;
+line-height: 75px;
+
+color: #000000;
+}
+
+.contacts{
+position: absolute;
+width: 359px;
+height: 53px;
+left: 456px;
+top: 289px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 41px;
+
+color: #000000;
+}
+
+.contacts2{
+position: absolute;
+width: 301px;
+height: 112px;
+left: 456px;
+top: 348px;
+
+font-family: Radley;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+
+}
+
+.skills{
+position: absolute;
+width: 839px;
+height: 97px;
+left: 446px;
+top: 400px;
+
+font-family: Radley;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 61px;
+
+color: #000000;
+}
